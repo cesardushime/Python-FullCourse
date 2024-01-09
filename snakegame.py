@@ -8,7 +8,7 @@ BACKGROUND_COLOR = "black"
 SNAKE_COLOR = "green"
 FOOD_COLOR = "red"
 BODY_PARTS = 3
-SPEED = 200
+SPEED = 100
 
 class Snake:
     def __init__(self):
